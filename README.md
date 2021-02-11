@@ -16,7 +16,7 @@ Die Daten liegen im GeoJson- und CSV-Format vor.
 
 ## 1. Maximaler Ende-zu-Ende Durchsatz
 
-Genrierung der Testdaten: [iPerf](https://iperf.fr) TCP
+Generierung der Testdaten: [iPerf](https://iperf.fr) TCP
 
 Die Messwerte enthalten:
 
@@ -34,7 +34,7 @@ Gemessene 2D-Positionen für Szenario 1:
 
 Network Slices: Slice A - Video und Slice B - Command & Control (C2)
 
-Genrierung der Testdaten: [iPerf](https://iperf.fr) UDP (Video und C2)
+Generierung der Testdaten: [iPerf](https://iperf.fr) UDP (Video und C2)
 
 Die Messwerte enthalten:
 
@@ -56,9 +56,9 @@ Gemessene 2D-Positionen für Szenario 2:
 
 ## 3. Langstreckenflug
 
-Genrierung der Testdaten: [iPerf](https://iperf.fr) UDP (HD Video und C2)
+Generierung der Testdaten: [iPerf](https://iperf.fr) UDP (HD Video und C2)
 
-Fluglänge: Etwa 7 km (Beyond Vision-Line-of-Sight, BVLOS)
+Fluglänge: Etwa 7 km (Long-distance Vision-Line-of-Sight, VLOS)
 
 Die Messwerte enthalten:
 
