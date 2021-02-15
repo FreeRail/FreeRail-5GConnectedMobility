@@ -1,4 +1,4 @@
-# 5G Connectivity Data for Autonomuous Drones – 5G Mobilfunk-Konnektivitätsdaten für autonome Drohnen
+# 5G Connectivity Data for Autonomous Drones – 5G Mobilfunk-Konnektivitätsdaten für autonome Drohnen
 
 
 Das Repository enthält Daten zur Mobilfunk-Konnektivität einer autonomen Drohne in einem experimentellen 5G-Mobilfunknetz. Die Daten umfassen drei Szenarien:
